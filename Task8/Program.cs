@@ -7,4 +7,3 @@ while (a >= 1)
       Console.WriteLine(a + ", ");
 a--;
 }
-rev
