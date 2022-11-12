@@ -8,14 +8,14 @@ int c = Convert.ToInt32(Console.ReadLine());
 if (a < b) 
 if (a > c)
     {
-    Console.WriteLine("максимальное А");
+    Console.WriteLine("максимальное" + a);
     }
 else
     if (b > c)
     {
-    Console.WriteLine("максимальное В");
+    Console.WriteLine("максимальное " + b);
     }
     else
     {
-    Console.WriteLine("максимальное С");
+    Console.WriteLine("максимальное" + c);
     }
